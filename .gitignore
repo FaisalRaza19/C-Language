@@ -24,6 +24,9 @@
 *.dSYM/
 *.stackdump
 
+#text file
+*.txt
+
 # Log files
 *.log
 
